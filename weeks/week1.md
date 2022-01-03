@@ -2,7 +2,7 @@
 
 ## Day1: 学习CTF Wiki栈溢出基础和ROP基础
 
-> 传送门: [CTF Wiki: Linux Pwn](https://ctf-wiki.github.io/ctf-wiki/pwn/readme-zh/)
+> 传送门: [CTF Wiki: Linux Pwn](https://ctf-wiki.github.io/ctf-wiki)
 
 - [x] [Stack Overflow Principle](https://ctf-wiki.github.io/ctf-wiki/pwn/linux/stackoverflow/stackoverflow-basic-zh/): 通过栈溢出覆盖掉函数栈帧的返回地址, 当函数返回时就会跳入攻击者覆写的地址继续执行代码. 
   
